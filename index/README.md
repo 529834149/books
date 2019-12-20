@@ -4,7 +4,7 @@
 
 | 名称             |  描述        |  维护者 |
 | :--------         | :---------       |:----------------|
-|[api规范](../../standard_api/_book)|无|张浩|
+|[api规范](../../standard_api/_book)|无|陈宝金|
 |[php代码规范](../../standard_code_php/_book)|无|张浩|
 |[android代码规范](../../standard_code_android/_book)|无|魏海|
 |[bot_control](../../bot_control/_book)|B Log 项目|All|
