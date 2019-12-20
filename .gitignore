@@ -1,0 +1,6 @@
+*/_book/
+.DS_Store
+*.log
+/nbproject/private/
+nbproject/project.properties
+nbproject/project.xml

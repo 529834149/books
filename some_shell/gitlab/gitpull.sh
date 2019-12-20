@@ -1,0 +1,36 @@
+su www
+cd /opt/html2/blogchina/docs
+git pull
+sleep 8s 
+cd /opt/html2/blogchina/docs/bot_control
+gitbook build
+cd /opt/html2/blogchina/docs/analytics
+gitbook build
+cd /opt/html2/blogchina/docs/read_smart
+gitbook build
+cd /opt/html2/blogchina/docs/standard_code_android
+gitbook build
+cd /opt/html2/blogchina/docs/index
+gitbook build
+cd /opt/html2/blogchina/docs/v5_api
+gitbook build
+cd /opt/html2/blogchina/docs/v5_db
+gitbook build
+cd /opt/html2/blogchina/docs/v5_dev
+gitbook build
+cd /opt/html2/blogchina/docs/standard_api
+gitbook build
+cd /opt/html2/blogchina/docs/standard_code_php
+gitbook build
+cd /opt/html2/blogchina/docs/fragment_share
+gitbook build
+cd /opt/html2/blogchina/docs/git_document
+gitbook build
+cd /opt/html2/blogchina/docs/ionic_framework
+gitbook build
+cd /opt/html2/blogchina/docs/kafka_document
+gitbook build
+cd /opt/html2/blogchina/docs/wallet_document
+gitbook build
+exit
+
