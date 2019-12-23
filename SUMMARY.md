@@ -1,6 +1,5 @@
 # Summary
 
-* [前言](item/index/README.md)
 * [api规范](item/standard_api/README.md)
 * [php代码规范](item/standard_code_php/README.md)
 * [知识分享](item/dev_get/README.md)
